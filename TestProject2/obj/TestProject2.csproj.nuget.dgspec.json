@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\Desktop\\TestProject2\\TestProject2.csproj": {}
+    "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\TestProject2\\TestProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\Desktop\\reservations-main\\reservation-system.csproj": {
+    "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\reservations-main\\reservation-system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\reservations-main\\reservation-system.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\reservations-main\\reservation-system.csproj",
         "projectName": "reservation-system",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\reservations-main\\reservation-system.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\reservations-main\\reservation-system.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\reservations-main\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\reservations-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\Youcode\\Desktop\\TestProject2\\TestProject2.csproj": {
+    "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\TestProject2\\TestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\TestProject2\\TestProject2.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\TestProject2\\TestProject2.csproj",
         "projectName": "TestProject2",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\TestProject2\\TestProject2.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\TestProject2\\TestProject2.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\TestProject2\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\TestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -149,8 +149,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Youcode\\Desktop\\reservations-main\\reservation-system.csproj": {
-                "projectPath": "C:\\Users\\Youcode\\Desktop\\reservations-main\\reservation-system.csproj"
+              "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\reservations-main\\reservation-system.csproj": {
+                "projectPath": "C:\\Users\\Youcode\\Documents\\GitHub\\reservationTest\\reservations-main\\reservation-system.csproj"
               }
             }
           }
