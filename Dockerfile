@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["reservations-main/reservation-system.csproj", "reservation-main/"]
-RUN dotnet restore "reservation-main/reservation-system.csproj"
+COPY ["reservations-main/reservation-system.csproj", "reservations-main/"]
+RUN dotnet restore "reservations-main/reservation-system.csproj"
 COPY . .
-WORKDIR "/src/reservation-main"
+WORKDIR "/src/reservations-main"
 RUN dotnet build "reservation-system.csproj" -c Release -o /app/build
 
 FROM build AS publish
